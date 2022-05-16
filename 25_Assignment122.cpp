@@ -1,0 +1,1 @@
+// write a progeam to understanding file handling technique.
